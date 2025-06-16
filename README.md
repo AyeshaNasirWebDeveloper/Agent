@@ -48,15 +48,12 @@ A smart, polite, and efficient AI-powered customer service agent built using Gem
 
 **User Input:**
 
-```
 Hey, can you help me with my order?
-```
 
 **AI Agent Output:**
 
-```
 Hi there! I'd be happy to help. Could you please provide me with your order number or any other relevant information like the email address or phone number associated with the order?
-```
+
 
 ## 🎯 Purpose
 
@@ -73,7 +70,5 @@ Pull requests are welcome! If you'd like to improve this project, please fork th
 ## 📢 Follow for Updates
 
 Stay connected for future enhancements and feature updates.
-
----
 
 **Made with ❤️ using Python and AI**
