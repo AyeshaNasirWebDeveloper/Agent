@@ -11,10 +11,6 @@ A smart, polite, and efficient AI-powered customer service agent built using Gem
 - Securely loads environment variables with `.env`
 - Built using `openai-ext` with `AsyncOpenAI` and `RunConfig`
 
-## 📸 Preview
-
-![AI Agent Screenshot](./agent.jpg)
-
 ## 🧠 Tech Stack
 
 - Python 🐍
